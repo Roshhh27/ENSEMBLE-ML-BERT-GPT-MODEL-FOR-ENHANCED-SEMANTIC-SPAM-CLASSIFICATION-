@@ -104,8 +104,8 @@ python ensemble/ensemble_predict.py
 ## 🖥️ Optional: Run Demo Web App
 
 ```bash
-# Flask or FastAPI App
-python app.py
+# Streamlit
+streamlit run app.py
 ```
 
 ## 📚 Dependencies
